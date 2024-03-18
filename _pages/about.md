@@ -11,6 +11,23 @@ I am looking for PhD position in robotics, and I’m currently a robotic R&D eng
 
 My research interests lie in the robotics, including **modelling**, **planning** and **control**, and **multi-robot system**. I focus on deploying robots in unstructured environments, especially in some occasion where human beings are hard to access and work. Moreover, I am passionate about exploring how things naturally work, using mathematical proofs or physical models to describe and explain how robots work in scenarios. 
 
+
+Publications
+------
+
+**[IROS2023]** Huafeng Xu, Jiannong Cao, **Zhiqin Cheng**†, Zhixuan Liang, Jinlin Chen, "Design and Development of a Deformable In-pipe Inspection Robot for Various Diameter Pipes." IEEE International Conference on Intelligent Robots and Systems, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10341512)
+
+**[IOTJ]** Jinlin Chen, Jiannong Cao, **Zhiqin Cheng**†, Yuvraj Sahni, "ManiWare: An Easy-to-Use Middleware for Cooperative Manipulator Teams." Internet of Things Journal, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10136704)
+
+**[TMC]** Jinlin Chen, Jiannong Cao, **Zhiqin Cheng**†, Shan Jiang, "Towards Efficient Distributed Collision Avoidance for Heterogeneous Mobile Robots." Transactions on Mobile Computing, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10135137)
+
+**[AAMAS2023]** Jinlin Chen, Jiannong Cao, **Zhiqin Cheng**†, Wei li, "Mitigating Imminent Collision for Multi-robot Navigation: A TTC-force Reward Shaping Apporach." International Conference on Autonomous Agents and Multi-agent Systems, 2023. [[PDF]](https://dl.acm.org/doi/10.5555/3545946.3598797)
+
+**[SmartComp2022]** **Zhiqin Cheng**, Jiannong Cao, Jinlin Chen, "ManiWare: An Easy-to-Use Middleware for Cooperative Manipulator Teams." IEEE International Conference on Smart Computing, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9821086)
+
+Jinlin Chen, Jiannong Cao, Zhixuan Liang, **Zhiqin Cheng**, Jia Wang, "GraphWare: A graph-based middleware enabling multi-robot cooperation." Concurrency and Computation: Practice and Experience, 2022. [[PDF]](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6995)
+
+
 Research Topics and Projects
 ------
 
@@ -40,20 +57,3 @@ Research Topics and Projects
 <div style="width:460px; height:auto; float:left; display:inline">
 <img src="/images/projects.png" />
 </div>
-
----
-
-Publications
-------
-
-**[IROS2023]** Huafeng Xu, Jiannong Cao, **Zhiqin Cheng**†, Zhixuan Liang, Jinlin Chen, "Design and Development of a Deformable In-pipe Inspection Robot for Various Diameter Pipes." IEEE International Conference on Intelligent Robots and Systems, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10341512)
-
-**[IOTJ]** Jinlin Chen, Jiannong Cao, **Zhiqin Cheng**†, Yuvraj Sahni, "ManiWare: An Easy-to-Use Middleware for Cooperative Manipulator Teams." Internet of Things Journal, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10136704)
-
-**[TMC]** Jinlin Chen, Jiannong Cao, **Zhiqin Cheng**†, Shan Jiang, "Towards Efficient Distributed Collision Avoidance for Heterogeneous Mobile Robots." Transactions on Mobile Computing, 2023. [[PDF]](https://ieeexplore.ieee.org/document/10135137)
-
-**[AAMAS2023]** Jinlin Chen, Jiannong Cao, **Zhiqin Cheng**†, Wei li, "Mitigating Imminent Collision for Multi-robot Navigation: A TTC-force Reward Shaping Apporach." International Conference on Autonomous Agents and Multi-agent Systems, 2023. [[PDF]](https://dl.acm.org/doi/10.5555/3545946.3598797)
-
-**[SmartComp2022]** **Zhiqin Cheng**, Jiannong Cao, Jinlin Chen, "ManiWare: An Easy-to-Use Middleware for Cooperative Manipulator Teams." IEEE International Conference on Smart Computing, 2022. [[PDF]](https://ieeexplore.ieee.org/document/9821086)
-
-Jinlin Chen, Jiannong Cao, Zhixuan Liang, **Zhiqin Cheng**, Jia Wang, "GraphWare: A graph-based middleware enabling multi-robot cooperation." Concurrency and Computation: Practice and Experience, 2022. [[PDF]](https://onlinelibrary.wiley.com/doi/10.1002/cpe.6995)
